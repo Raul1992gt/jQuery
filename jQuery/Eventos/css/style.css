@@ -1,0 +1,16 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: blueviolet;
+}
+
+
+.highlighted{
+    background-color: #E17BBA!important;
+}
+
+#example{
+    width: 100px;
+    height: 100px;
+    margin: 150px auto;
+    background-color:aquamarine;
+}
